@@ -1,0 +1,4 @@
+baseURL = ''
+languageCode = 'en-us'
+title = "Tom's Blog"
+theme = 'PaperMod'
